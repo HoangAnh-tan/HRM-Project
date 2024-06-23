@@ -1,0 +1,15 @@
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Hoang Anh\source\repos\QUANLYTIENLUONGV3\BusinessLayer\obj\Debug\BusinessLayer.pdb
